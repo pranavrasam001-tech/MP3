@@ -37,6 +37,17 @@ Now finally I have completed my schematics where I have checked drc I have got m
 Now I have successfully completed all my errors and I have finished my work in schematics
 <img width="830" height="360" alt="image" src="https://github.com/user-attachments/assets/a4c983f8-3fd2-4d19-abea-39c84cd6d6e8" />
 
+------
 
-
+# date:19/9
+# time spent:2hr
+## description:
+I have added the values for the capacitor and the resistor and inductance as their respective value
+<img width="940" height="558" alt="image" src="https://github.com/user-attachments/assets/071580a2-cf8c-47c3-8e0e-5cbcbb472b05" />
+So now I have successfully completed schematics by adding the respective footprints to the multiple capacitor/ resistor / inductor/switches and many more .now its time to open PCB editor 
+<img width="940" height="484" alt="image" src="https://github.com/user-attachments/assets/8b05e43b-0dda-4f28-b37b-a7b080be10ee" />
+<img width="940" height="439" alt="image" src="https://github.com/user-attachments/assets/b8af5eea-8d75-4fe7-bc86-586c0fcbc743" />
+so by adding some extra components like moujnting holes and capacitors if required 
+<img width="696" height="241" alt="image" src="https://github.com/user-attachments/assets/ddbce0f8-ee23-4821-b6de-c04347f896a2" />
+<img width="940" height="636" alt="image" src="https://github.com/user-attachments/assets/4c82e9b8-614e-4227-9ea9-d47e89e389c9" />
 
