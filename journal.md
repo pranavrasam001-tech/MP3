@@ -17,3 +17,11 @@ Now I have started doing the wiring in the schematic where in between there are 
 <img width="820" height="753" alt="image" src="https://github.com/user-attachments/assets/941e0c89-7644-4d10-83fc-d885cd47b6fc" />
 
 ------
+
+# date:19/9
+# time spent:1hr
+## description:
+I have now completed around three-fourths of the schematic. I added more resistors, capacitors, GND connections, net labels, and no-connect flags. I also completed the required wiring between the components. This part was little difficult because there were many small connections to check, and I had to make sure no pin was missed or connected wrongly. After checking the circuit again, I fixed the connections and continued with the remaining schematic work.
+## Images:
+<img width="940" height="611" alt="image" src="https://github.com/user-attachments/assets/88703e37-4e34-49e2-92ed-b290b6447ba9" />
+<img width="940" height="586" alt="image" src="https://github.com/user-attachments/assets/b40b047d-e039-4ff2-b915-5b6b7aa9b128" />
