@@ -25,3 +25,18 @@ I have now completed around three-fourths of the schematic. I added more resisto
 ## Images:
 <img width="940" height="611" alt="image" src="https://github.com/user-attachments/assets/88703e37-4e34-49e2-92ed-b290b6447ba9" />
 <img width="940" height="586" alt="image" src="https://github.com/user-attachments/assets/b40b047d-e039-4ff2-b915-5b6b7aa9b128" />
+
+------
+
+# date:19/9
+# time spent:1hr
+## description:
+Now finally I have completed my schematics where I have checked drc I have got more number of errors that were some no connect flag and the proper connections were not given so I have started resolving one by one , I have solved and and now the Schematics are ready to move to the PCB editor . I am receiving the errors again 
+<img width="928" height="613" alt="image" src="https://github.com/user-attachments/assets/c705ba88-9ce3-4b6f-bac1-729b1f96e4c9" />
+<img width="896" height="590" alt="image" src="https://github.com/user-attachments/assets/6a65ebef-7d22-42c7-9790-2775545febd6" />
+Now I have successfully completed all my errors and I have finished my work in schematics
+<img width="830" height="360" alt="image" src="https://github.com/user-attachments/assets/a4c983f8-3fd2-4d19-abea-39c84cd6d6e8" />
+
+
+
+
