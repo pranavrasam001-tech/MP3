@@ -51,3 +51,12 @@ so by adding some extra components like moujnting holes and capacitors if requir
 <img width="696" height="241" alt="image" src="https://github.com/user-attachments/assets/ddbce0f8-ee23-4821-b6de-c04347f896a2" />
 <img width="940" height="636" alt="image" src="https://github.com/user-attachments/assets/4c82e9b8-614e-4227-9ea9-d47e89e389c9" />
 
+------
+
+# date:19/9
+# time spent:1.5hr
+## description:
+So now I have successfully imported form the schematics where I have started arranging the components which were updated by the schematics section , but It was quite difficult as all the components were overlapped on each other so in that case I have arranged the schematics in the PCB in its respective places. 
+<img width="940" height="516" alt="image" src="https://github.com/user-attachments/assets/3d3c5c21-6624-454d-802f-03609418c9ba" />
+<img width="910" height="550" alt="image" src="https://github.com/user-attachments/assets/2cfa1260-fdcb-48d0-953a-b6f4ac6f013b" />
+<img width="827" height="403" alt="image" src="https://github.com/user-attachments/assets/b3273c78-7e8c-49b0-9023-a875ded300d8" />
