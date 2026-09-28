@@ -56,6 +56,11 @@ The purpose of this project was to understand how to create a complete PCB desig
 
 ---
 
+## Images
+<img width="940" height="636" alt="image" src="https://github.com/user-attachments/assets/d97d376e-7349-4bdd-819c-5c1a99eacc3a" />
+<img width="910" height="550" alt="image" src="https://github.com/user-attachments/assets/2cd0b804-2067-4ddc-a3ee-c413f68015d0" />
+
+
 ## Project Files
 
 ```text
